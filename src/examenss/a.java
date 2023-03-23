@@ -1,4 +1,4 @@
-package examen;
+package examenss;
 
 public class a {
 
